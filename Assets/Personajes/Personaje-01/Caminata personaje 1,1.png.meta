@@ -1,0 +1,789 @@
+fileFormatVersion: 2
+guid: e4fd8955601909e4888120eb0a1b2f26
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Caminata personaje 1,1_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 3385
+        width: 373
+        height: 711
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3567231d836bcb4f929e083ab2d9950
+      internalID: -752359451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata personaje 1,1_1
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 3385
+        width: 372
+        height: 711
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711356522e5e3064b88c0dfe39195ca6
+      internalID: -1706849995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata personaje 1,1_2
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 3385
+        width: 366
+        height: 711
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d3da51a513b5e468b407932beba778
+      internalID: 1023563959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata personaje 1,1_3
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 3387
+        width: 364
+        height: 709
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61073dfc3c068ff4cbfd6009f3cc0121
+      internalID: -1181485314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata personaje 1,1_4
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 3389
+        width: 362
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742ae051d3449404a9bea02ce4776adf
+      internalID: -78308438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata personaje 1,1_5
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 3389
+        width: 358
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54289eb7e0d1dd24bbb00a6561a53ea4
+      internalID: -1235308914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata personaje 1,1_6
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 3391
+        width: 353
+        height: 705
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b8c37ad7a28e942ad2b066ac2d809b
+      internalID: -2116447294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata personaje 1,1_8
+      rect:
+        serializedVersion: 2
+        x: 3131
+        y: 3395
+        width: 349
+        height: 701
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73faed475d388ba4eba5d60db060078f
+      internalID: 222328147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata personaje 1,1_10
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 3397
+        width: 345
+        height: 699
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda90eb65c3498c46b61a2e5bc072a23
+      internalID: -32565127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata personaje 1,1_12
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2645
+        width: 344
+        height: 698
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6633a4f27014035499041c48930a36b1
+      internalID: -1712473691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata personaje 1,1_14
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 2647
+        width: 346
+        height: 694
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a2931dd2123f44385646134ae08da4
+      internalID: 1698414885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata personaje 1,1_16
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 2649
+        width: 344
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6216a3cc5ae4cd342aba5717ab82e913
+      internalID: 554647859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata personaje 1,1_18
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 2653
+        width: 346
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1fda9e902e52d4abbe8e0bdb662b01
+      internalID: -1860511607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata personaje 1,1_20
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 2651
+        width: 346
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c449501fb8137b4e9ae27509ab73e37
+      internalID: -526719720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata personaje 1,1_22
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 2653
+        width: 346
+        height: 688
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b585a0706cb9545be1ea262eaedc30
+      internalID: -2113379896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata personaje 1,1_24
+      rect:
+        serializedVersion: 2
+        x: 2921
+        y: 2651
+        width: 346
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bee1a8bf143d34d9eb8fa3ea8528c6
+      internalID: 262380073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata personaje 1,1_26
+      rect:
+        serializedVersion: 2
+        x: 3401
+        y: 2651
+        width: 346
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd959f1ab2543a4b9536ffb661e6636
+      internalID: -1949510898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata personaje 1,1_28
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1907
+        width: 344
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f54f487c6663e4890f19840dec937f
+      internalID: 454319331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata personaje 1,1_29
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 1892
+        width: 412
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19cb06aafc9b0e4a992d12322aaed21
+      internalID: 157882824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata personaje 1,1_31
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1904
+        width: 344
+        height: 693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247d48e56e3cdef4b847c20aea689a0c
+      internalID: 1531259253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata personaje 1,1_33
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1903
+        width: 344
+        height: 694
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d4373769423c64295de71bcba4d5ca
+      internalID: 125624156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata personaje 1,1_35
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 1899
+        width: 344
+        height: 698
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbe8d7c2756a9e4e8ec8aac67a9b14f
+      internalID: 279938600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata personaje 1,1_37
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1895
+        width: 346
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f41392a5c0d124c9035f4b28c12876
+      internalID: 1257928933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata personaje 1,1_39
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 1893
+        width: 352
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5761badee28142e4698f7c24c40abdd1
+      internalID: -620452915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata personaje 1,1_41
+      rect:
+        serializedVersion: 2
+        x: 2881
+        y: 1891
+        width: 360
+        height: 706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9486c54867f3c74d8486a33c29641cd
+      internalID: 1139634620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata personaje 1,1_42
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1135
+        width: 362
+        height: 710
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fadd873978a2f43a2ef31180bc1356
+      internalID: 491061662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata personaje 1,1_43
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1134
+        width: 364
+        height: 711
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51622935b9d9767429b12d57c05ac7cc
+      internalID: 970306780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata personaje 1,1_44
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1133
+        width: 368
+        height: 712
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88cc15a915b7654d8fdb3ae80ee8344
+      internalID: 323064866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata personaje 1,1_45
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1133
+        width: 372
+        height: 712
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff1862995f735c409bd2224442ad350
+      internalID: 790790397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Caminata personaje 1,1_12: -1712473691
+      Caminata personaje 1,1_6: -2116447294
+      Caminata personaje 1,1_42: 491061662
+      Caminata personaje 1,1_20: -526719720
+      Caminata personaje 1,1_37: 1257928933
+      Caminata personaje 1,1_22: -2113379896
+      Caminata personaje 1,1_14: 1698414885
+      Caminata personaje 1,1_32: 70949691
+      Caminata personaje 1,1_40: -2015948367
+      Caminata personaje 1,1_43: 970306780
+      Caminata personaje 1,1_25: 1498688750
+      Caminata personaje 1,1_13: 28824048
+      Caminata personaje 1,1_34: 243384268
+      Caminata personaje 1,1_21: 319320237
+      Caminata personaje 1,1_7: -1552523598
+      Caminata personaje 1,1_5: -1235308914
+      Caminata personaje 1,1_29: 157882824
+      Caminata personaje 1,1_16: 554647859
+      Caminata personaje 1,1_38: -1559772037
+      Caminata personaje 1,1_23: 1054845323
+      Caminata personaje 1,1_1: -1706849995
+      Caminata personaje 1,1_19: 893638754
+      Caminata personaje 1,1_30: -54752585
+      Caminata personaje 1,1_15: 1241446352
+      Caminata personaje 1,1_44: 323064866
+      Caminata personaje 1,1_18: -1860511607
+      Caminata personaje 1,1_45: 790790397
+      Caminata personaje 1,1_8: 222328147
+      Caminata personaje 1,1_35: 279938600
+      Caminata personaje 1,1_41: 1139634620
+      Caminata personaje 1,1_2: 1023563959
+      Caminata personaje 1,1_33: 125624156
+      Caminata personaje 1,1_17: 525480931
+      Caminata personaje 1,1_36: -314097282
+      Caminata personaje 1,1_31: 1531259253
+      Caminata personaje 1,1_24: 262380073
+      Caminata personaje 1,1_26: -1949510898
+      Caminata personaje 1,1_0: -752359451
+      Caminata personaje 1,1_4: -78308438
+      Caminata personaje 1,1_9: -2050149406
+      Caminata personaje 1,1_39: -620452915
+      Caminata personaje 1,1_3: -1181485314
+      Caminata personaje 1,1_27: -42435271
+      Caminata personaje 1,1_11: -139638944
+      Caminata personaje 1,1_10: -32565127
+      Caminata personaje 1,1_28: 454319331
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

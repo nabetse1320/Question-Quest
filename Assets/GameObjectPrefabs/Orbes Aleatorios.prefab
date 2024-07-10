@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3192334721156940200
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3192334721156943446}
+  - component: {fileID: 3192334721156940201}
+  m_Layer: 0
+  m_Name: Orbes Aleatorios
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3192334721156943446
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3192334721156940200}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -5.4172544, y: 2.5147526, z: -0.29552993}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3192334721156940201
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3192334721156940200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9479878b5e6cb9341880edbf8429c78d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  orbes:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  GUia: {fileID: 0}
+  Resultados: {fileID: 0}
+  preguntas:
+  - 40+15
+  - 80/4
+  - 30-12
+  - 8 x 4
+  - "D\xEDa y a\xF1o de la batalla de Bogot\xE1"
+  - "D\xEDa y a\xF1o de la independencia de Colombia"
+  - "\xBFComo le llamamos a las dos partes en las que se divide la tierra"
+  - "\xBFCuantos huesos tiene el ser humano?"
+  - "\xBFCual de estos animales es omn\xEDvoro"
+  - "\xBFLas plantas son...?"
+  respuestasCorrectas:
+  - 55
+  - 20
+  - 18
+  - 32
+  - 7 agosto 1819
+  - 20 julio 1810
+  - Hemisferios
+  - 206
+  - Mono
+  - "Heter\xF3trafas"
+  respuestasIncorrectas1:
+  - 50
+  - 15
+  - 14
+  - 40
+  - 9 mayo 1800
+  - 7 abril 1810
+  - Polos
+  - 230
+  - "Le\xF3n"
+  - Descomponedoras
+  respuestasIncorrectas2:
+  - 65
+  - 25
+  - 20
+  - 36
+  - 7 agosto 1820
+  - 20 julio 1812
+  - "V\xE9rtices"
+  - 208
+  - "Ant\xEDlope"
+  - "Aut\xF3trafas"
+  UsadasPrefsName:
+  - a
+  - b
+  - c
+  - d
+  - e
+  - f
+  - g
+  - h
+  - i
+  - j
+  usadas:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 

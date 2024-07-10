@@ -1,0 +1,945 @@
+fileFormatVersion: 2
+guid: 1aa97ce25b6ec3141b7796d851d8cd97
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Caminar personaje 1_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 3429
+        width: 518
+        height: 667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368ded6d25eb71d49ac39e4754c1c98d
+      internalID: 265863645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar personaje 1_1
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 3427
+        width: 512
+        height: 669
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5266c7edfa5f44986568f1935ab6d4
+      internalID: -927384876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar personaje 1_2
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 3424
+        width: 502
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dbb0f6dbb21404eb634e6215a67a72
+      internalID: -19647341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar personaje 1_3
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 3423
+        width: 488
+        height: 673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0ada12de8ef9e4cbfdc2b862c77fd8
+      internalID: -1876418012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar personaje 1_4
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 3413
+        width: 462
+        height: 683
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8224f3edc3b7f84aa905448453e5572
+      internalID: 1410754616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar personaje 1_5
+      rect:
+        serializedVersion: 2
+        x: 2813
+        y: 3405
+        width: 424
+        height: 691
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212c82c39114a804eab7b40d79d1a838
+      internalID: -1461851342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar personaje 1_6
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 3409
+        width: 365
+        height: 682
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36437dd25c17cbb4c9599900a3aef46d
+      internalID: 247362612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar personaje 1_7
+      rect:
+        serializedVersion: 2
+        x: 3707
+        y: 3413
+        width: 294
+        height: 676
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67ef5ed118cc5c40b2c6b796a6e0458
+      internalID: 1668579150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar personaje 1_13
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2667
+        width: 314
+        height: 668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483340b6c3b4b0e49b1e2954d89e52d4
+      internalID: -1137666800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar personaje 1_14
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 2677
+        width: 374
+        height: 656
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22240ab837889a54a9ccf76c06b0c489
+      internalID: -292063613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar personaje 1_15
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 2667
+        width: 402
+        height: 666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6bec0fcec6e8940898fbb6bb5718f4
+      internalID: -42726110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar personaje 1_16
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 2677
+        width: 414
+        height: 654
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970c3b1f45bbf9b419447497aebf2a88
+      internalID: -1185973546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar personaje 1_18
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 2681
+        width: 480
+        height: 650
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304c94f0cdcdc78478fc96eb6364b546
+      internalID: -2096182802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar personaje 1_19
+      rect:
+        serializedVersion: 2
+        x: 2773
+        y: 2665
+        width: 542
+        height: 664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c449f5c7635c3e44bd56be144b5af8e
+      internalID: -333713879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar personaje 1_20
+      rect:
+        serializedVersion: 2
+        x: 3437
+        y: 2651
+        width: 568
+        height: 676
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ce404adce7cea4a8cdf09f0397c1e1
+      internalID: -155212064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar personaje 1_30
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1843
+        width: 554
+        height: 686
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a912e9289e66a4baa530340bd7a2e9
+      internalID: -1753522026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar personaje 1_31
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1827
+        width: 522
+        height: 702
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ac86b4f793c2d458e3885a5c6ab81b
+      internalID: -75051043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar personaje 1_32
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1831
+        width: 488
+        height: 698
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c6cfde82171d449897f8ce158124d9
+      internalID: -1829282921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar personaje 1_33
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 1835
+        width: 424
+        height: 696
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf5f72a71654f042b6296f2ed786b15
+      internalID: 720318609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar personaje 1_34
+      rect:
+        serializedVersion: 2
+        x: 2489
+        y: 1835
+        width: 356
+        height: 696
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856d6364211090d43a357016d57a0a00
+      internalID: -705470448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar personaje 1_35
+      rect:
+        serializedVersion: 2
+        x: 2949
+        y: 1837
+        width: 316
+        height: 696
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe27dde44bd68d743ac0608b2c35ae45
+      internalID: -372491350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar personaje 1_37
+      rect:
+        serializedVersion: 2
+        x: 3385
+        y: 1843
+        width: 278
+        height: 692
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b05de56aca7f8b4280a41066c3e2503
+      internalID: -928839012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar personaje 1_47
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1045
+        width: 272
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38784a16ccf570841b5c9de55d34a20b
+      internalID: -448045165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar personaje 1_48
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1047
+        width: 272
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1e5863cd8a31442b8d9061d250152c
+      internalID: 1412565818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar personaje 1_49
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1051
+        width: 270
+        height: 688
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3128075c2f3207d4e9ee2595853afa5c
+      internalID: -1221179765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar personaje 1_50
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 1057
+        width: 290
+        height: 682
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba9ed5fb7848fb44bb6fc8255992666
+      internalID: 769821806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar personaje 1_51
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 1069
+        width: 354
+        height: 670
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0f1126dac5336448e35da9060a4c4e
+      internalID: -88074981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar personaje 1_52
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 1063
+        width: 406
+        height: 678
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3251b77003ed83b4987f66c1a59866d8
+      internalID: 778865728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar personaje 1_54
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 1077
+        width: 446
+        height: 666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9426f7dfb8564224f8cd992209ba3ca7
+      internalID: -626813947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar personaje 1_55
+      rect:
+        serializedVersion: 2
+        x: 3317
+        y: 1117
+        width: 478
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd13e59c2a516248b0cb67feb397db8
+      internalID: 605185106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar personaje 1_66
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 359
+        width: 540
+        height: 628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab99be6898aea74db04b2af8b3f87be
+      internalID: -555960900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar personaje 1_67
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 347
+        width: 576
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b718b4c87a41d94b8cf610b18cbeb05
+      internalID: 1731670318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar personaje 1_68
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 342
+        width: 570
+        height: 647
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d1f09b65d8eb84c9db59fe4d6817f8
+      internalID: 191655350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar personaje 1_69
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 332
+        width: 563
+        height: 657
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfac9c1045ad84f4381f2707667257f9
+      internalID: -1728331836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar personaje 1_70
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 317
+        width: 518
+        height: 674
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf7e147ef7f3a948960378e9ae3b10a
+      internalID: -800504628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Caminar personaje 1_62: -943617001
+      Caminar personaje 1_34: -705470448
+      Caminar personaje 1_51: -88074981
+      Caminar personaje 1_53: 2008537854
+      Caminar personaje 1_21: -547877647
+      Caminar personaje 1_55: 605185106
+      Caminar personaje 1_11: -457768624
+      Caminar personaje 1_56: 2130710247
+      Caminar personaje 1_31: -75051043
+      Caminar personaje 1_19: -333713879
+      Caminar personaje 1_18: -2096182802
+      Caminar personaje 1_10: 1436405467
+      Caminar personaje 1_32: -1829282921
+      Caminar personaje 1_13: -1137666800
+      Caminar personaje 1_26: 980239100
+      Caminar personaje 1_25: 606021893
+      Caminar personaje 1_6: 247362612
+      Caminar personaje 1_44: 1265952415
+      Caminar personaje 1_39: 777858068
+      Caminar personaje 1_66: -555960900
+      Caminar personaje 1_59: 509438275
+      Caminar personaje 1_57: -797714594
+      Caminar personaje 1_49: -1221179765
+      Caminar personaje 1_38: 109871392
+      Caminar personaje 1_54: -626813947
+      Caminar personaje 1_7: 1668579150
+      Caminar personaje 1_0: 265863645
+      Caminar personaje 1_70: -800504628
+      Caminar personaje 1_36: -541144597
+      Caminar personaje 1_45: 1809145267
+      Caminar personaje 1_23: 1566813011
+      Caminar personaje 1_64: 1833410959
+      Caminar personaje 1_29: 942267386
+      Caminar personaje 1_37: -928839012
+      Caminar personaje 1_12: 1244554484
+      Caminar personaje 1_60: 1214771824
+      Caminar personaje 1_14: -292063613
+      Caminar personaje 1_40: 1727269907
+      Caminar personaje 1_71: 1234031918
+      Caminar personaje 1_5: -1461851342
+      Caminar personaje 1_46: 1816583692
+      Caminar personaje 1_20: -155212064
+      Caminar personaje 1_52: 778865728
+      Caminar personaje 1_61: 1272921545
+      Caminar personaje 1_41: 1679858694
+      Caminar personaje 1_72: 1796765993
+      Caminar personaje 1_9: 847653538
+      Caminar personaje 1_67: 1731670318
+      Caminar personaje 1_48: 1412565818
+      Caminar personaje 1_68: 191655350
+      Caminar personaje 1_43: 941510036
+      Caminar personaje 1_42: -882351625
+      Caminar personaje 1_1: -927384876
+      Caminar personaje 1_17: 130124252
+      Caminar personaje 1_8: 1366228339
+      Caminar personaje 1_22: -1827847677
+      Caminar personaje 1_4: 1410754616
+      Caminar personaje 1_3: -1876418012
+      Caminar personaje 1_28: 64774822
+      Caminar personaje 1_24: -2098150950
+      Caminar personaje 1_58: -1265278951
+      Caminar personaje 1_50: 769821806
+      Caminar personaje 1_63: 1931933685
+      Caminar personaje 1_69: -1728331836
+      Caminar personaje 1_33: 720318609
+      Caminar personaje 1_65: 1809200051
+      Caminar personaje 1_75: -443680639
+      Caminar personaje 1_30: -1753522026
+      Caminar personaje 1_74: -1515323729
+      Caminar personaje 1_35: -372491350
+      Caminar personaje 1_27: 858433881
+      Caminar personaje 1_16: -1185973546
+      Caminar personaje 1_15: -42726110
+      Caminar personaje 1_47: -448045165
+      Caminar personaje 1_73: -1573700843
+      Caminar personaje 1_2: -19647341
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
